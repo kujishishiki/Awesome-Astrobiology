@@ -2,7 +2,9 @@
 
 ![Gaussian_Meme](./img/Gaussian_meme.png)
 
-**An Awesome List for the, now mainstream, field of Astrobiology**
+**An Awesome List for the, now mainstream, field of Astrobiology**.
+
+With many insights from many disciplines and many peoples.
 
 ---
 
@@ -12,3 +14,5 @@
 - Biochemistry
 - Astronomy
 - Information theory
+- Alife
+- Synthetic Biology
