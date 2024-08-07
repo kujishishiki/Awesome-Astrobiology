@@ -10,3 +10,4 @@
 
 - Chemistry
 - Biochemistry
+- Information theory
