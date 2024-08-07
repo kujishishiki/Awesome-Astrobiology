@@ -2,7 +2,7 @@
 
 ![Gaussian_Meme](./img/Gaussian_meme.png)
 
-**An Awesome list for the, now mainstream, field of Astrobiology**.
+**An Awesome list for the awesome, now mainstream, field of Astrobiology**.
 
 With many insights from many disciplines and many peoples.
 
