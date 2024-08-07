@@ -10,4 +10,5 @@
 
 - Chemistry
 - Biochemistry
+- Astronomy
 - Information theory
